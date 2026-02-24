@@ -30,7 +30,7 @@ The dashboard helps business users quickly understand key sales patterns and per
 
 ## Dashboard Preview
 
-![Sales Dashboard](output/dashboard.png)
+![Sales Dashboard](https://github.com/wince0727/Sales-trends-regional-insights-dashboard/blob/main/Dashboard.png)
 
 ## Key Insights
 1. Sales show noticeable fluctuations across months, indicating seasonal trends.
@@ -38,4 +38,3 @@ The dashboard helps business users quickly understand key sales patterns and per
 3. Technology is the top-performing category by revenue.
 4. Standard Class shipping accounts for the largest share of sales.
 
-## Repository Structure
