@@ -30,7 +30,7 @@ The dashboard helps business users quickly understand key sales patterns and per
 
 ## Dashboard Preview
 
-![Sales Dashboard](https://github.com/wince0727/Sales-trends-regional-insights-dashboard/blob/main/Dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/wince0727/Sales-trends-regional-insights-dashboard/main/Dashboard.png)
 
 ## Key Insights
 1. Sales show noticeable fluctuations across months, indicating seasonal trends.
